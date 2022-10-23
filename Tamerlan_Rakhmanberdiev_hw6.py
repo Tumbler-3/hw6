@@ -51,7 +51,7 @@ def menu():
     elif x == 4:
         return 4
     else:
-        print(f'\nНеверное число')
+        pass
 
 while True:
     y = menu()
